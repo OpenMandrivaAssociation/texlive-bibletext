@@ -1,6 +1,6 @@
 Name:		texlive-bibletext
 Version:	45196
-Release:	1
+Release:	2
 Summary:	Insert Bible passages by their reference
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibletext
