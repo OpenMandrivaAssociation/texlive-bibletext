@@ -3,7 +3,7 @@ Version:	45196
 Release:	2
 Summary:	Insert Bible passages by their reference
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/bibletext
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/bibletext
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibletext.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/bibletext.doc.r%{version}.tar.xz
